@@ -1,0 +1,17 @@
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+G:\Tasks jobs\Algoriza\Project\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

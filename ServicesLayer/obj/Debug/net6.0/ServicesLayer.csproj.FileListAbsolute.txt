@@ -1,0 +1,11 @@
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\bin\Debug\net6.0\ServicesLayer.deps.json
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\bin\Debug\net6.0\ServicesLayer.dll
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\bin\Debug\net6.0\ServicesLayer.pdb
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfoInputs.cache
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfo.cs
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.csproj.CoreCompileInputs.cache
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.dll
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\refint\ServicesLayer.dll
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ServicesLayer.pdb
+G:\Tasks jobs\Algoriza\Project\ServicesLayer\obj\Debug\net6.0\ref\ServicesLayer.dll
